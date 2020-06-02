@@ -1,0 +1,201 @@
+filename,category,prediction
+"Beijing,40.42 116.85,4.png",Beijing   ,Beijing   
+"Los Angeles,34.01 -118.25,4.png",Los Angeles,Los Angeles
+"Paris,48.88 2.32,4.png",Paris     ,Paris     
+"Sydney,-33.82 150.68,4.png",Sydney    ,Sydney    
+"Bangkok,13.72 100.44,4.png",Bangkok   ,Bangkok   
+"Mumbai,19.08 72.89,4.png",Mumbai    ,Mumbai    
+"Paris,48.82 2.31,4.png",Paris     ,Paris     
+"Los Angeles,34.22 -118.56,4.png",Los Angeles,Los Angeles
+"Moscow,55.86 37.69,4.png",Moscow    ,Mumbai    
+"Los Angeles,34.26 -118.48,4.png",Los Angeles,Los Angeles
+"Moscow,55.51 37.58,4.png",Moscow    ,Moscow    
+"Bangkok,13.95 100.59,4.png",Bangkok   ,Bangkok   
+"Amsterdam,52.41 4.81,4.png",Amsterdam ,Amsterdam 
+"New York,40.75 -73.99,4.png",New York  ,Paris     
+"Beijing,40.79 116.76,4.png",Beijing   ,Beijing   
+"Beijing,39.65 115.9,4.png",Beijing   ,Beijing   
+"New York,40.71 -73.99,4.png",New York  ,Sydney    
+"Paris,48.88 2.35,4.png",Paris     ,Paris     
+"New York,40.78 -73.86,4.png",New York  ,Amsterdam 
+"Sydney,-34.03 150.68,4.png",Sydney    ,Sydney    
+"Amsterdam,52.4 5.03,4.png",Amsterdam ,Amsterdam 
+"Los Angeles,34.05 -118.4,4.png",Los Angeles,Los Angeles
+"Los Angeles,34.1 -118.3,4.png",Los Angeles,Los Angeles
+"New York,40.56 -74.12,4.png",New York  ,Sydney    
+"Los Angeles,33.95 -118.3,4.png",Los Angeles,Los Angeles
+"Moscow,55.62 37.63,4.png",Moscow    ,Mumbai    
+"Paris,48.84 2.32,4.png",Paris     ,Paris     
+"Moscow,55.73 37.79,4.png",Moscow    ,Mumbai    
+"Mumbai,19.07 72.92,4.png",Mumbai    ,Mumbai    
+"Mumbai,19.0 72.84,4.png",Mumbai    ,Mumbai    
+"Greater London,51.57 0.2,4.png",Greater London,Sydney    
+"Beijing,40.03 116.79,4.png",Beijing   ,Beijing   
+"Bangkok,13.67 100.36,4.png",Bangkok   ,Bangkok   
+"Bangkok,13.89 100.75,4.png",Bangkok   ,Sydney    
+"Mumbai,19.16 72.92,4.png",Mumbai    ,Mumbai    
+"Greater London,51.51 0.1,4.png",Greater London,Mumbai    
+"Bangkok,13.8 100.63,4.png",Bangkok   ,Bangkok   
+"Paris,48.9 2.38,4.png",Paris     ,Paris     
+"Paris,48.89 2.4,4.png",Paris     ,Paris     
+"Sydney,-33.65 151.05,4.png",Sydney    ,Sydney    
+"Paris,48.83 2.33,4.png",Paris     ,Paris     
+"Beijing,40.44 117.01,4.png",Beijing   ,Sydney    
+"New York,40.66 -73.97,4.png",New York  ,Sydney    
+"Sydney,-33.89 150.93,4.png",Sydney    ,Sydney    
+"Mumbai,19.09 72.92,4.png",Mumbai    ,Mumbai    
+"Los Angeles,34.19 -118.44,4.png",Los Angeles,Los Angeles
+"Greater London,51.34 0.03,4.png",Greater London,Sydney    
+"Sydney,-33.83 151.27,4.png",Sydney    ,Sydney    
+"Paris,48.85 2.25,4.png",Paris     ,Paris     
+"Los Angeles,34.03 -118.52,4.png",Los Angeles,Amsterdam 
+"Mumbai,19.21 72.92,4.png",Mumbai    ,Mumbai    
+"Los Angeles,33.73 -118.24,4.png",Los Angeles,Amsterdam 
+"Los Angeles,34.22 -118.36,4.png",Los Angeles,Los Angeles
+"Bangkok,13.78 100.85,4.png",Bangkok   ,Amsterdam 
+"Greater London,51.42 -0.16,4.png",Greater London,Paris     
+"Beijing,39.84 116.62,4.png",Beijing   ,Beijing   
+"New York,40.76 -73.96,4.png",New York  ,Sydney    
+"Amsterdam,52.36 5.04,4.png",Amsterdam ,Amsterdam 
+"Los Angeles,34.14 -118.19,4.png",Los Angeles,Paris     
+"Paris,48.87 2.36,4.png",Paris     ,Paris     
+"Greater London,51.59 0.11,4.png",Greater London,Sydney    
+"New York,40.73 -73.93,4.png",New York  ,Sydney    
+"New York,40.86 -73.93,4.png",New York  ,Paris     
+"Los Angeles,34.26 -118.34,4.png",Los Angeles,Mumbai    
+"New York,40.9 -73.85,4.png",New York  ,Paris     
+"Mumbai,19.09 72.86,4.png",Mumbai    ,Mumbai    
+"New York,40.49 -74.19,4.png",New York  ,Moscow    
+"New York,40.62 -74.08,4.png",New York  ,Sydney    
+"Beijing,40.19 116.96,4.png",Beijing   ,Beijing   
+"New York,40.58 -73.86,4.png",New York  ,New York  
+"Beijing,39.82 116.23,4.png",Beijing   ,Beijing   
+"Amsterdam,52.42 4.81,4.png",Amsterdam ,Amsterdam 
+"Bangkok,13.8 100.74,4.png",Bangkok   ,Bangkok   
+"Bangkok,13.75 100.51,4.png",Bangkok   ,Paris     
+"Moscow,55.79 37.74,4.png",Moscow    ,Paris     
+"Bangkok,13.74 100.87,4.png",Bangkok   ,Sydney    
+"Sydney,-33.97 150.71,4.png",Sydney    ,Amsterdam 
+"Amsterdam,52.38 4.9,4.png",Amsterdam ,Paris     
+"New York,40.56 -74.09,4.png",New York  ,Sydney    
+"Los Angeles,34.06 -118.49,4.png",Los Angeles,Bangkok   
+"Los Angeles,34.07 -118.53,4.png",Los Angeles,Los Angeles
+"Greater London,51.53 -0.43,4.png",Greater London,Sydney    
+"Moscow,55.68 37.59,4.png",Moscow    ,Paris     
+"Los Angeles,33.93 -118.28,4.png",Los Angeles,Los Angeles
+"Mumbai,19.17 72.83,4.png",Mumbai    ,Mumbai    
+"Paris,48.89 2.35,4.png",Paris     ,Paris     
+"Greater London,51.44 -0.24,4.png",Greater London,Sydney    
+"Paris,48.82 2.37,4.png",Paris     ,Paris     
+"Beijing,39.64 116.55,4.png",Beijing   ,Beijing   
+"Moscow,55.85 37.62,4.png",Moscow    ,Paris     
+"Moscow,55.89 37.63,4.png",Moscow    ,Bangkok   
+"Sydney,-33.72 151.13,4.png",Sydney    ,Mumbai    
+"New York,40.71 -73.9,4.png",New York  ,Sydney    
+"Greater London,51.44 0.07,4.png",Greater London,Sydney    
+"Amsterdam,52.32 5.02,4.png",Amsterdam ,Amsterdam 
+"Bangkok,13.65 100.4,4.png",Bangkok   ,Bangkok   
+"Beijing,40.24 116.39,4.png",Beijing   ,Sydney    
+"New York,40.59 -73.78,4.png",New York  ,Mumbai    
+"Moscow,55.73 37.51,4.png",Moscow    ,Amsterdam 
+"Los Angeles,34.13 -118.37,4.png",Los Angeles,Los Angeles
+"Moscow,55.7 37.66,4.png",Moscow    ,Mumbai    
+"Bangkok,13.66 100.64,4.png",Bangkok   ,Bangkok   
+"Amsterdam,52.43 4.87,4.png",Amsterdam ,Amsterdam 
+"Moscow,55.72 37.43,4.png",Moscow    ,Amsterdam 
+"Moscow,55.81 37.66,4.png",Moscow    ,Paris     
+"Mumbai,19.24 72.83,4.png",Mumbai    ,Mumbai    
+"Paris,48.87 2.41,4.png",Paris     ,Paris     
+"Bangkok,13.74 100.37,4.png",Bangkok   ,Bangkok   
+"Greater London,51.56 -0.45,4.png",Greater London,Sydney    
+"Los Angeles,34.18 -118.5,4.png",Los Angeles,Los Angeles
+"New York,40.73 -73.72,4.png",New York  ,Sydney    
+"Bangkok,13.68 100.4,4.png",Bangkok   ,Bangkok   
+"Sydney,-33.7 150.58,4.png",Sydney    ,Amsterdam 
+"New York,40.49 -74.25,4.png",New York  ,Sydney    
+"New York,40.84 -73.81,4.png",New York  ,Amsterdam 
+"New York,40.6 -74.1,4.png",New York  ,Sydney    
+"Moscow,55.86 37.43,4.png",Moscow    ,Moscow    
+"Moscow,55.6 37.68,4.png",Moscow    ,Bangkok   
+"Bangkok,13.73 100.5,4.png",Bangkok   ,Paris     
+"Los Angeles,34.2 -118.52,4.png",Los Angeles,Los Angeles
+"Amsterdam,52.3 4.95,4.png",Amsterdam ,Amsterdam 
+"Moscow,55.7 37.36,4.png",Moscow    ,Mumbai    
+"Sydney,-33.58 150.73,4.png",Sydney    ,Sydney    
+"Paris,48.86 2.37,4.png",Paris     ,Paris     
+"Paris,48.88 2.41,4.png",Paris     ,Paris     
+"Sydney,-33.76 150.98,4.png",Sydney    ,Sydney    
+"Amsterdam,52.38 4.93,4.png",Amsterdam ,Amsterdam 
+"Amsterdam,52.34 4.9,4.png",Amsterdam ,Paris     
+"Bangkok,13.74 100.49,4.png",Bangkok   ,Paris     
+"New York,40.67 -74.03,4.png",New York  ,New York  
+"Paris,48.83 2.29,4.png",Paris     ,Paris     
+"Paris,48.88 2.37,4.png",Paris     ,Paris     
+"New York,40.58 -74.05,4.png",New York  ,Moscow    
+"Moscow,55.82 37.82,4.png",Moscow    ,Mumbai    
+"Moscow,55.74 37.58,4.png",Moscow    ,Paris     
+"Beijing,39.71 115.97,4.png",Beijing   ,Beijing   
+"Greater London,51.38 -0.11,4.png",Greater London,Paris     
+"Los Angeles,34.17 -118.4,4.png",Los Angeles,Los Angeles
+"Sydney,-33.52 151.01,4.png",Sydney    ,Beijing   
+"Amsterdam,52.4 4.98,4.png",Amsterdam ,Amsterdam 
+"Greater London,51.68 -0.04,4.png",Greater London,Sydney    
+"Sydney,-33.62 150.86,4.png",Sydney    ,Paris     
+"Greater London,51.6 -0.46,4.png",Greater London,Sydney    
+"Paris,48.82 2.46,4.png",Paris     ,Paris     
+"Moscow,55.86 37.72,4.png",Moscow    ,Amsterdam 
+"Sydney,-33.67 150.59,4.png",Sydney    ,Sydney    
+"Paris,48.82 2.35,4.png",Paris     ,Paris     
+"Moscow,55.87 37.5,4.png",Moscow    ,Moscow    
+"Moscow,55.81 37.58,4.png",Moscow    ,Paris     
+"Beijing,40.14 116.68,4.png",Beijing   ,Beijing   
+"Greater London,51.49 -0.33,4.png",Greater London,Sydney    
+"Mumbai,19.16 72.93,4.png",Mumbai    ,Mumbai    
+"Moscow,55.88 37.47,4.png",Moscow    ,Moscow    
+"Paris,48.87 2.26,4.png",Paris     ,Paris     
+"Mumbai,19.1 72.92,4.png",Mumbai    ,Mumbai    
+"Amsterdam,52.38 4.8,4.png",Amsterdam ,Amsterdam 
+"Beijing,40.28 116.74,4.png",Beijing   ,Sydney    
+"Los Angeles,33.76 -118.3,4.png",Los Angeles,Los Angeles
+"Paris,48.85 2.24,4.png",Paris     ,Paris     
+"Mumbai,19.21 72.86,4.png",Mumbai    ,Mumbai    
+"Mumbai,19.15 72.91,4.png",Mumbai    ,Mumbai    
+"Beijing,39.88 116.53,4.png",Beijing   ,Beijing   
+"Mumbai,19.14 72.92,4.png",Mumbai    ,Mumbai    
+"Sydney,-34.0 150.79,4.png",Sydney    ,Paris     
+"Paris,48.86 2.39,4.png",Paris     ,Paris     
+"Paris,48.83 2.46,4.png",Paris     ,Paris     
+"Amsterdam,52.42 4.99,4.png",Amsterdam ,Amsterdam 
+"Paris,48.84 2.39,4.png",Paris     ,Paris     
+"Mumbai,18.96 72.81,4.png",Mumbai    ,Mumbai    
+"Greater London,51.49 -0.01,4.png",Greater London,Paris     
+"Beijing,40.18 116.93,4.png",Beijing   ,Beijing   
+"Bangkok,13.69 100.6,4.png",Bangkok   ,Bangkok   
+"Sydney,-33.92 151.17,4.png",Sydney    ,Paris     
+"Los Angeles,34.04 -118.33,4.png",Los Angeles,Los Angeles
+"Los Angeles,34.29 -118.46,4.png",Los Angeles,Paris     
+"Los Angeles,34.15 -118.57,4.png",Los Angeles,Sydney    
+"Los Angeles,34.18 -118.53,4.png",Los Angeles,Los Angeles
+"Beijing,39.98 116.11,4.png",Beijing   ,Amsterdam 
+"Paris,48.87 2.28,4.png",Paris     ,Paris     
+"Sydney,-33.56 151.19,4.png",Sydney    ,Beijing   
+"Bangkok,13.8 100.8,4.png",Bangkok   ,Bangkok   
+"Greater London,51.47 0.06,4.png",Greater London,Sydney    
+"Greater London,51.32 -0.15,4.png",Greater London,Sydney    
+"Moscow,55.62 37.79,4.png",Moscow    ,Bangkok   
+"Mumbai,19.17 72.96,4.png",Mumbai    ,Mumbai    
+"Sydney,-33.73 151.16,4.png",Sydney    ,Mumbai    
+"Paris,48.85 2.27,4.png",Paris     ,Paris     
+"Paris,48.89 2.31,4.png",Paris     ,Paris     
+"Paris,48.82 2.34,4.png",Paris     ,Paris     
+"Moscow,55.96 37.57,4.png",Moscow    ,Moscow    
+"Mumbai,19.04 72.91,4.png",Mumbai    ,Mumbai    
+"Los Angeles,34.04 -118.37,4.png",Los Angeles,Los Angeles
+"Amsterdam,52.3 4.94,4.png",Amsterdam ,Paris     
+"Moscow,55.69 37.54,4.png",Moscow    ,Paris     
+"New York,40.63 -73.82,4.png",New York  ,Amsterdam 
+"Sydney,-33.68 151.03,4.png",Sydney    ,Sydney    
+"Sydney,-33.66 150.92,4.png",Sydney    ,Sydney    
+"Beijing,40.15 116.75,4.png",Beijing   ,Beijing   
+"Amsterdam,52.4 4.93,4.png",Amsterdam ,Amsterdam 
+"New York,40.55 -74.2,4.png",New York  ,Sydney    
