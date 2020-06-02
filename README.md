@@ -22,17 +22,12 @@ Access OpenStreetMap to generate dataset
 ## Results
 ### [Training Process](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/tree/master/Results)
 
-| Scales     | Street Network types | Epoch |     Output Accuracy     |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
-
-
-
-| Name     | Character |
-| ---      | ---       |
-| Backtick | `         |
-| Pipe     | \|        |
+| Scales     | Street Network types | Epoch | Output Accuracy |
+| ---      | ---       | ---       | ---       |
+| 0.25 km | Drive  | 1900 | 87.7% |
+| 0.25 km | All  | 1400 | 83% |
+| 1 km | Drive  | 2800 | 93.2% |
+| 4 km | Drive  | 400 | 87.2% |
 
 *Street Network types = 'Drive', Activation function = 'ReLu', Scale = '4km', Epochs = '400'*
 
