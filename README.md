@@ -27,6 +27,13 @@ Access OpenStreetMap to generate dataset
 | Backtick | `         |
 | Pipe     | \|        |
 
+
+
+| Name     | Character |
+| ---      | ---       |
+| Backtick | `         |
+| Pipe     | \|        |
+
 *Street Network types = 'Drive', Activation function = 'ReLu', Scale = '4km', Epochs = '400'*
 
 *Final Accuracy = 87.2%*
