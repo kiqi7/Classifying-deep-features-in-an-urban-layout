@@ -10,6 +10,7 @@ Access OpenStreetMap to generate dataset
 
 *Example: Edge of Log Angeles and Coordinate points*
 ![Log Angeles](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/City%20Boundary/Los%20Angeles.png =250x250)
+![test](https://github.com/favicon.ico | width=48)
 
 ## Results
 **Confusion Matrix**
