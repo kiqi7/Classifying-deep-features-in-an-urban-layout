@@ -27,6 +27,6 @@ Access OpenStreetMap to generate dataset
 <img src='https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Results/Sigmoid_acc.png'>
 
 
-**Confusion Matrix**
-![Sigmoid Classification results](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Results/matrix_Sigmoid.png)
+### [Confusion Matrix](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/tree/master/Confusion%20Matrix)
+![Sigmoid Classification results](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Confusion%20Matrix/matrix_ReLu.png)
 
