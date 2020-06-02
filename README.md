@@ -10,7 +10,7 @@ Access OpenStreetMap to generate dataset
 
 *City Edge Example: Log Angeles and related Coordinate points*
 
-<img align="centre" src="https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/City%20Boundary/Los%20Angeles.png" align="center" height="400">
+<img align="centre" src="https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/City%20Boundary/Los%20Angeles.png" style=centerme height="400">
 
 *Dataset Example*
 
