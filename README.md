@@ -9,7 +9,6 @@ Access OpenStreetMap to generate dataset
 **London, Beijing, Paris, Moscow, Los Angeles, Bangkok, New York, Sydney, Mumbai and Amsterdam**
 
 *Example: Edge of Log Angeles and Coordinate points*
-![Log Angeles](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/City%20Boundary/Los%20Angeles.png){:height="24px" width="48px"}
 
 <img src="https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/City%20Boundary/Los%20Angeles.png" height="500">
 
