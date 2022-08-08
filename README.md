@@ -4,7 +4,7 @@ It is offered a type of street network to capture the character of urban layout 
 
 Dissertation online read link [Flipbook Pages](https://online.flippingbook.com/view/971157097/)
 
-[Contribution guidelines for this project](docs/CONTRIBUTING.md)
+[Contribution guidelines for this project](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Classifying%20deep%20features%20in%20an%20urban%20layout.pdf)
 
 
 ## [Database](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/tree/master/Drive_4km)
