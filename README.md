@@ -3,7 +3,7 @@
 It is offered a type of street network to capture the character of urban layout and category different places around the world. Deep learning algorithm is been study performances of hyper-parameters modify.
 
 ### Dissertation online read link
-Subsection dissertation writting guidelines for this project](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Classifying%20deep%20features%20in%20an%20urban%20layout.pdf) or [Upload on Flipbook Pages](https://online.flippingbook.com/view/971157097/)
+[Subsection dissertation writting guidelines for this project](https://github.com/kiqi7/Classifying-deep-features-in-an-urban-layout/blob/master/Classifying%20deep%20features%20in%20an%20urban%20layout.pdf) or [Upload on Flipbook Pages](https://online.flippingbook.com/view/971157097/)
 
 
 
